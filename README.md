@@ -1,6 +1,7 @@
 
 
 ## PROYECTO DE SCRIPTS DE ISO
+![imagen](https://github.com/tirirote/proyectoBashISO/assets/84339698/a0536fea-0124-4c63-bf3a-dd6387754c6a)
 
 *Grupo 3 : Antonio Cuesta Suarez, Javier Gonzalez Marín y José Francisco Aguza Benítez.*
 
