@@ -68,7 +68,7 @@ ___
 - [x] Una vez terminado el script con éxito no lo redireccionamos a ningún lado, por lo tanto no se creaba ningún fichero `log`.
 
 **Solución Final**
-```
+```bash
 #!/bin/bash
 #Autor: Javier GOonzález, Antonio Cuesta, José Francisco
 #Versión: 1.0
@@ -151,7 +151,7 @@ ___
 
 
 **Solución Final**
-```
+```bash
 #!/bin/bash
 #Autor: Javier González, Antonio Cuesta, José Francisco Aguza
 #Versión: 1.0
@@ -320,7 +320,7 @@ ___
 - [x] Hubo dficultades con los comandos de usuario, como con los comandos `usermod` para poner la fecha de expiración.
 
 **Solución Final**
-```
+```bash
 #!/bin/bash
 #Autor: Javier González, Antonio Cuesta, José Francisco Aguza Benitez
 #Versión: 1.0
@@ -451,7 +451,7 @@ Este script al tomar valores en consola, es necesario comprobar si no se han dad
 
 Luego para crear usuarios de forma masiva, se podría hacer un bucle `for` sencillo que recorra una secuencia desde el 1, hasta el último valor que ha dado el usuario, sería por ejemplo:
 
-```
+```bash
 for i in $(seq 1 "$num")
 	do
 		#Creando Usuarios
@@ -469,7 +469,7 @@ ____
 
 **Solución Final**
 ___
-```
+```bash
 #!/bin/bash
 #Autor: Javier González, Antonio Cuesta, José Francisco Aguza Benitez
 #Versión: 1.0
@@ -579,7 +579,7 @@ ___
 
 **Solución Final**
 ____
-```
+```bash
 #!/bin/bash
 #Autor: Javier González, Antonio Cuesta, José Francisco
 #Versión: 1.0
